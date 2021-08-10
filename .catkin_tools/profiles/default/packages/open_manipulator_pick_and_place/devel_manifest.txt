@@ -1,0 +1,6 @@
+open_manipulator_perceptions/open_manipulator_pick_and_place
+/home/infore/turtlemnpl_ws/devel/.private/open_manipulator_pick_and_place/cmake.lock /home/infore/turtlemnpl_ws/devel/./cmake.lock
+/home/infore/turtlemnpl_ws/devel/.private/open_manipulator_pick_and_place/share/open_manipulator_pick_and_place/cmake/open_manipulator_pick_and_placeConfig.cmake /home/infore/turtlemnpl_ws/devel/share/open_manipulator_pick_and_place/cmake/open_manipulator_pick_and_placeConfig.cmake
+/home/infore/turtlemnpl_ws/devel/.private/open_manipulator_pick_and_place/share/open_manipulator_pick_and_place/cmake/open_manipulator_pick_and_placeConfig-version.cmake /home/infore/turtlemnpl_ws/devel/share/open_manipulator_pick_and_place/cmake/open_manipulator_pick_and_placeConfig-version.cmake
+/home/infore/turtlemnpl_ws/devel/.private/open_manipulator_pick_and_place/lib/open_manipulator_pick_and_place/open_manipulator_pick_and_place /home/infore/turtlemnpl_ws/devel/lib/open_manipulator_pick_and_place/open_manipulator_pick_and_place
+/home/infore/turtlemnpl_ws/devel/.private/open_manipulator_pick_and_place/lib/pkgconfig/open_manipulator_pick_and_place.pc /home/infore/turtlemnpl_ws/devel/lib/pkgconfig/open_manipulator_pick_and_place.pc
