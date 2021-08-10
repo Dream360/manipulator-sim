@@ -1,0 +1,5 @@
+turtlebot3_manipulation/turtlebot3_manipulation_description
+/home/infore/turtlemnpl_ws/devel/.private/turtlebot3_manipulation_description/cmake.lock /home/infore/turtlemnpl_ws/devel/./cmake.lock
+/home/infore/turtlemnpl_ws/devel/.private/turtlebot3_manipulation_description/share/turtlebot3_manipulation_description/cmake/turtlebot3_manipulation_descriptionConfig.cmake /home/infore/turtlemnpl_ws/devel/share/turtlebot3_manipulation_description/cmake/turtlebot3_manipulation_descriptionConfig.cmake
+/home/infore/turtlemnpl_ws/devel/.private/turtlebot3_manipulation_description/share/turtlebot3_manipulation_description/cmake/turtlebot3_manipulation_descriptionConfig-version.cmake /home/infore/turtlemnpl_ws/devel/share/turtlebot3_manipulation_description/cmake/turtlebot3_manipulation_descriptionConfig-version.cmake
+/home/infore/turtlemnpl_ws/devel/.private/turtlebot3_manipulation_description/lib/pkgconfig/turtlebot3_manipulation_description.pc /home/infore/turtlemnpl_ws/devel/lib/pkgconfig/turtlebot3_manipulation_description.pc

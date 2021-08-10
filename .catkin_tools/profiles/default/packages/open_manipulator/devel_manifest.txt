@@ -1,0 +1,2 @@
+open_manipulator/open_manipulator
+/home/infore/turtlemnpl_ws/devel/.private/open_manipulator/cmake.lock /home/infore/turtlemnpl_ws/devel/./cmake.lock
